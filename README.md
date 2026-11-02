@@ -104,7 +104,7 @@ I'm a **Full-Stack Developer** from Colombia who builds, administers and secures
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cesarmachado443/cesarmachado443/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+  <img src="https://ghchart.rshah.org/7b5cff/cesarmachado443" width="100%" alt="contribution chart"/>
 </p>
 
 <img src="./assets/divider.svg" width="100%"/>
