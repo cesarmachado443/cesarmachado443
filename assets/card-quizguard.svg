@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1022"/><stop offset="1" stop-color="#05070f"/></linearGradient>
+<style>.m{font-family:'JetBrains Mono','Fira Code',Consolas,monospace}.s{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.sh{animation:sh 4s ease-in-out infinite}@keyframes sh{0%,100%{stroke-opacity:.35}50%{stroke-opacity:1}}
+.dot{animation:p 2s infinite}@keyframes p{50%{opacity:.2}}</style></defs>
+<rect x="1" y="1" width="438" height="208" rx="14" fill="url(#g)"/>
+<rect x="1" y="1" width="438" height="208" rx="14" fill="none" stroke="#39ff88" stroke-width="1.6" class="sh"/>
+<path d="M14 2 H120" stroke="#39ff88" stroke-width="3"/>
+<circle cx="414" cy="30" r="5" fill="#39ff88" class="dot"/>
+<text x="24" y="38" class="m" font-size="11" letter-spacing="2" fill="#39ff88">EXAM INTEGRITY · SECURITY</text>
+<text x="24" y="74" class="s" font-size="24" font-weight="700" fill="#f0f4ff">Quiz Focus Guard</text>
+<text x="24" y="108" class="s" font-size="14" fill="#aab4d4">Detects focus loss during Moodle quizzes,</text><text x="24" y="128" class="s" font-size="14" fill="#aab4d4">logs incidents per attempt and helps</text><text x="24" y="148" class="s" font-size="14" fill="#aab4d4">restrict external AI use in exams.</text>
+<rect x="24" y="166" width="102" height="24" rx="12" fill="#39ff88" fill-opacity=".12" stroke="#39ff88" stroke-opacity=".6"/><text x="75.0" y="182" text-anchor="middle" class="m" font-size="11.5" fill="#39ff88">JavaScript</text><rect x="134" y="166" width="70" height="24" rx="12" fill="#39ff88" fill-opacity=".12" stroke="#39ff88" stroke-opacity=".6"/><text x="169.0" y="182" text-anchor="middle" class="m" font-size="11.5" fill="#39ff88">Moodle</text><rect x="212" y="166" width="46" height="24" rx="12" fill="#39ff88" fill-opacity=".12" stroke="#39ff88" stroke-opacity=".6"/><text x="235.0" y="182" text-anchor="middle" class="m" font-size="11.5" fill="#39ff88">CSP</text><rect x="266" y="166" width="86" height="24" rx="12" fill="#39ff88" fill-opacity=".12" stroke="#39ff88" stroke-opacity=".6"/><text x="309.0" y="182" text-anchor="middle" class="m" font-size="11.5" fill="#39ff88">Security</text>
+</svg>
