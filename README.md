@@ -1,80 +1,120 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Cesar%20Machado&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Moodle%20LMS%20%7C%20AI%20in%20Education%20%7C%20Cybersecurity&descSize=15&descAlignY=58" width="100%" alt="header"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=2C9AB7&center=true&vCenter=true&width=620&lines=I+build+and+secure+e-learning+platforms;Moodle+%26+Canvas+LMS+%E2%80%94+plugins%2C+themes%2C+integrations;Laravel+%2B+React+apps+deployed+with+Docker;Self-hosted+LLMs+for+automatic+AI+grading" alt="Typing SVG" /></a>
+<img src="./assets/header.svg" width="100%" alt="César Machado — Full-Stack Developer"/>
 
 <p>
-  <a href="https://www.linkedin.com/in/cesar-machado-551346258/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:cesarmachado443@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Barranquilla,_Colombia-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open_to_remote_work-2EA44F?style=for-the-badge" alt="Open to work"/>
+  <a href="https://www.linkedin.com/in/cesar-machado-551346258/"><img src="https://img.shields.io/badge/LinkedIn-0b1022?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn"/></a>
+  <a href="mailto:cesarmachado443@gmail.com"><img src="https://img.shields.io/badge/Email-0b1022?style=for-the-badge&logo=gmail&logoColor=ff2bd6" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Barranquilla,_CO-0b1022?style=for-the-badge&logo=googlemaps&logoColor=7b5cff" alt="Location"/>
+  <img src="https://img.shields.io/badge/Remote-Available-39ff88?style=for-the-badge&labelColor=0b1022" alt="Available for remote work"/>
 </p>
+
+<img src="./assets/terminal.svg" width="90%" alt="terminal"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
-## 👨‍💻 About me
+## ⚡ `> about.exe`
 
-I'm a **Full-Stack Developer** from Colombia with **2+ years** building, administering and securing **e-learning platforms** for universities and EdTech companies. I work across the whole stack — from Moodle plugins and custom themes to Laravel/React apps, Docker deployments on Linux and security audits — and I love bringing **AI into education** in a practical, safe way.
+I'm a **Full-Stack Developer** from Colombia who builds, administers and secures **e-learning platforms** for universities and EdTech companies. I work across the whole stack — Moodle plugins and custom themes, Laravel + React apps, Docker deployments on Linux and security audits — and I specialise in bringing **AI into education** in a practical, safe way.
 
-> 🇪🇸 Desarrollador Full-Stack especializado en plataformas educativas (Moodle y Canvas LMS), integraciones con IA y ciberseguridad.
+> 🇪🇸 *Desarrollador Full-Stack especializado en plataformas educativas (Moodle y Canvas LMS), integraciones con IA y ciberseguridad.*
 
-## 🚀 What I do
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| | |
-|---|---|
-| 🎓 **LMS engineering** | Moodle & Canvas LMS administration, custom plugins, themes, upgrades, backups, Microsoft 365 (OAuth2) mail |
-| 🤖 **AI in education** | Self-hosted LLMs (Ollama) for rubric-based automatic grading, AI grading plugins for Moodle |
-| 🧩 **Full-stack apps** | Laravel APIs + React SPAs, dashboards, WhatsApp / email / SMS notifications |
-| 🛡️ **Security** | Penetration testing, web security audits, LMS hardening, exam-integrity tooling |
-| 🐳 **DevOps** | Docker, Dokploy, Nginx and Linux VPS deployments |
+**🎓 LMS engineering**<br/>
+<sub>Moodle & Canvas LMS · plugins · themes · upgrades · Microsoft 365 OAuth2</sub>
 
-## 🛠️ Tech stack
+**🤖 AI × Education**<br/>
+<sub>Self-hosted LLMs (Ollama) · rubric-based automatic grading</sub>
+
+**🧩 Full-stack apps**<br/>
+<sub>Laravel APIs · React SPAs · dashboards · WhatsApp / email / SMS</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Security**<br/>
+<sub>Penetration testing · web audits · LMS hardening · exam integrity</sub>
+
+**🐳 DevOps**<br/>
+<sub>Docker · Dokploy · Nginx · Linux VPS</sub>
+
+**🌐 Languages**<br/>
+<sub>Spanish (native) · English (intermediate, technical)</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## 🛠️ `> stack --list`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,mysql,cs,dotnet,docker,linux,nginx,git,github,wordpress,python&perline=8" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,mysql,cs,dotnet,docker,linux,nginx,git,github,wordpress,python&perline=8&theme=dark" alt="tech stack"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white" alt="Moodle"/>
-  <img src="https://img.shields.io/badge/Canvas_LMS-E72429?style=flat-square&logo=instructure&logoColor=white" alt="Canvas LMS"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Dokploy-4B5563?style=flat-square" alt="Dokploy"/>
-  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp API"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Pentesting-111111?style=flat-square&logo=kalilinux&logoColor=white" alt="Pentesting"/>
+  <img src="https://img.shields.io/badge/Moodle-0b1022?style=flat-square&logo=moodle&logoColor=F98012" alt="Moodle"/>
+  <img src="https://img.shields.io/badge/Canvas_LMS-0b1022?style=flat-square&logo=instructure&logoColor=E72429" alt="Canvas LMS"/>
+  <img src="https://img.shields.io/badge/Ollama-0b1022?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Dokploy-0b1022?style=flat-square&logo=docker&logoColor=00f0ff" alt="Dokploy"/>
+  <img src="https://img.shields.io/badge/WhatsApp_API-0b1022?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp API"/>
+  <img src="https://img.shields.io/badge/SQL_Server-0b1022?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Pentesting-0b1022?style=flat-square&logo=kalilinux&logoColor=557C94" alt="Pentesting"/>
 </p>
 
-## 📌 Featured work
+<img src="./assets/divider.svg" width="100%"/>
 
-- 📊 **Student-risk & teacher follow-up monitor** — Laravel + React app that alerts low-performing students and checks that teachers fully grade activities, with WhatsApp, email and SMS notifications.
-- 🤖 **AI grading in Moodle** — self-hosted LLM service (Ollama + Qwen3, Docker) and an adapted Moodle plugin that grades deliverables against rubrics and publishes grades automatically.
-- 🎨 **Full LMS redesign** — complete look & feel of institutional Moodle sites with a custom theme plugin.
-- 🔒 **Quiz integrity guard** — Moodle script that detects focus loss during exams and logs incidents per attempt.
-- 📝 **Syllabus versioning system** — Git-inspired versioning and approval workflow for university syllabi, built with Laravel.
-- 🔌 **[moodle-local_apiquery](https://github.com/cesarmachado443/moodle-local_apiquery)** — Moodle local plugin (PHP).
+## 🚀 `> projects --featured`
 
-## 💼 Experience
+<p align="center">
+  <a href="https://github.com/cesarmachado443/moodle-local_apiquery"><img src="./assets/card-apiquery.svg" width="48%" alt="local_apiquery"/></a>
+  <img src="./assets/card-aigrading.svg" width="48%" alt="AI Grading Engine"/>
+</p>
+<p align="center">
+  <img src="./assets/card-riskmonitor.svg" width="48%" alt="Student Risk Monitor"/>
+  <img src="./assets/card-quizguard.svg" width="48%" alt="Quiz Focus Guard"/>
+</p>
 
-- **Full-Stack Developer** — Universidad de la Costa (CUC) · *2024 – present*
-- **LMS & Full-Stack Developer (Contractor)** — CUC University · *2025 – present*
-- **Freelance Full-Stack Developer, EdTech** · *2024 – present*
-- **Full-Stack Developer** — Globalsoft T&S · *2023 – 2024*
+<sub>Also built: a Git-inspired <b>syllabus versioning & approval system</b> (Laravel) and full <b>LMS redesigns</b> with custom Moodle theme plugins.</sub>
 
-## 📈 GitHub activity
+<img src="./assets/divider.svg" width="100%"/>
+
+## 💼 `> experience --log`
+
+```diff
++ 2025 → now   LMS & Full-Stack Developer (Contractor) · CUC University
++ 2024 → now   Full-Stack Developer · Universidad de la Costa (CUC)
++ 2024 → now   Freelance Full-Stack Developer · EdTech clients
+! 2023 → 2024  Full-Stack Developer · Globalsoft T&S (.NET · SQL Server)
+# 2023         Software Development Apprentice · Universidad de la Costa
+```
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## 📡 `> activity --live`
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cesarmachado443&theme=tokyonight" width="100%" alt="GitHub profile summary"/>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2c5364/cesarmachado443" width="100%" alt="Contribution chart"/>
+  <img src="https://raw.githubusercontent.com/cesarmachado443/cesarmachado443/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 </p>
 
-## 📫 Let's work together
+<img src="./assets/divider.svg" width="100%"/>
 
-Need a Moodle expert, an LMS integration, an AI grading workflow or a security review? **Let's talk:** [cesarmachado443@gmail.com](mailto:cesarmachado443@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cesar-machado-551346258/)
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="footer"/>
+### 📫 `> connect --now`
+
+**Need a Moodle expert, an LMS integration, an AI grading workflow or a security review?**
+
+<a href="mailto:cesarmachado443@gmail.com"><img src="https://img.shields.io/badge/Let's_build_something-0b1022?style=for-the-badge&logo=rocket&logoColor=00f0ff" alt="Contact"/></a>
+
+</div>
